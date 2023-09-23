@@ -1,8 +1,8 @@
 # nlp_semantic_similarity
 
-I would like to word2vec to extract vectors to find exact phrases, but i coulnd't implement it.
+I would like word2vec(ngram) to extract vectors to search for exact phrases, but I couldn't implement this.
 
-### Code details: 
+### Code details using tfidf:
 - Tokenizes and preprocesses the input text for analysis.
 - Calculates similarity scores between input sentences/phrases and standardized phrases.
 - Suggests replacements when similarity scores meet a predefined threshold.
